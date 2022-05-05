@@ -15,3 +15,11 @@ credits-bit.ly/3y6Kev8 (Missing Categorical Data | Simple Imputer | Most Frequen
 {![end of distribution imputation](https://user-images.githubusercontent.com/68773015/165970096-81a35966-b196-4a31-962b-64ab2d088930.png)
 ![arbitary value imputation](https://user-images.githubusercontent.com/68773015/165970100-e3da5be2-6dbf-4b4d-b3f2-3000e64ea3ad.png)
 ![handining missing data](https://user-images.githubusercontent.com/68773015/165970106-bd38aeae-a7bb-40e3-b4e6-0ad3b6fb2253.png)}
+
+
+
+![Screenshot (160)](https://user-images.githubusercontent.com/68773015/166893600-85fdfe75-d5fc-47ce-9301-bcdd90b2a2c0.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/68773015/166893605-156bb46d-1ad5-4c6d-b316-8110175c3589.png)
+![Screenshot (162)](https://user-images.githubusercontent.com/68773015/166893607-3084c39e-0b67-40bb-96c8-6d415cf7339e.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/68773015/166893616-5a97fff3-3236-42eb-b514-49c2075032a9.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/68773015/166893619-11560120-9992-4c52-8dd8-db055993c6dd.png)
